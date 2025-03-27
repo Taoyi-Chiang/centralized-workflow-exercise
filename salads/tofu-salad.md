@@ -1,4 +1,7 @@
-# Tofu salad
+# Tofu Salad
 
-## Ingrédients
-- tofu
+## Ingredients
+- Tofu
+
+## Instructions
+- Putting tofu on a plate
