@@ -1,0 +1,4 @@
+# Tofu salad
+
+## Ingrédients
+- tofu
